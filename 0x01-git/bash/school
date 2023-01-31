@@ -1,3 +1,5 @@
 bash/school
 echo school
 echo ALX
+#!/bin/bash
+echo school
